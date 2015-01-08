@@ -10,6 +10,14 @@ public class Test{
 			}
 			
 			
+			
+			//add a new method in here and push it to the branch dev
+			public void pushToDevBranch(){
+				
+				System.out.println("dev branch");
+			}
+			
+			
 
 			//add some method in here
 			public void getUserName(){
